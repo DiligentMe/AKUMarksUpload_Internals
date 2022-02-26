@@ -13,4 +13,4 @@ Steps to use this code if you are new to above mentions software-
 3. Open the ipynb file. The code will open in a new tab.
 4. Make changes specified in the file and run the code one block each time.
 
-Further help is available at ashish@mitmuzaffarpur.org
+Feel free to connect at ashish@mitmuzaffarpur.org
