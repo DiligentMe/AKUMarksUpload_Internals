@@ -1,6 +1,6 @@
 # MarksAutoFillAKU
 
-This is a small code to upload internal and external marks.
+**This is a small code to upload internal and external marks securely to AKU Portal.**
 
 Software required to use this code:
   1. Anaconda
@@ -13,4 +13,6 @@ Steps to use this code if you are new to above mentions software-
 3. Open the ipynb file. The code will open in a new tab.
 4. Make changes specified in the file and run the code one block each time.
 
-Feel free to connect at ashish@mitmuzaffarpur.org
+
+
+**Feel free to connect !**
